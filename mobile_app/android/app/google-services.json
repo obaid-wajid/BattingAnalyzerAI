@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775461429903",
+    "project_id": "batting-analyzer-ai",
+    "storage_bucket": "batting-analyzer-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775461429903:android:c8299e3d0084ac601b06fa",
+        "android_client_info": {
+          "package_name": "com.battinganalyzer.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBm5zg_A1C5xzzfN1xJpsww6Q4xIMzng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
